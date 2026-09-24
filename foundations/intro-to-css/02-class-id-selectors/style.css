@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #ff004080;
+    font-family: "Vardana", "DejaVu Sans", sans-serif;
+}
+#numbering-one {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.font-large {
+    font-size: 24px;
+}
+#numbering-two {
+    background-color: #90ee90; 
+    font-size: 24px; font-weight: bold;
+}
